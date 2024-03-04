@@ -1,4 +1,4 @@
-class Alire-2 < Formula
+class Alire2 < Formula
   desc "Command-line tool from the Alire project and supporting library"
   homepage "https://alire.ada.dev"
   url "https://github.com/alire-project/alire/releases/download/v2.0.0-rc1/alr-2.0.0-rc1-bin-x86_64-macos.zip"
